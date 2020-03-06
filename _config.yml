@@ -1,16 +1,16 @@
 # Site settings
 name: "Adeola Alokolaro"
-description: "Digital Marketing Professional"
+description: "Digital Marketing & Marketing Operations Professional"
 url: "adeolaalokolaro.com"
 title: "Konko's corner of the web"
 
 # Delete the lines you don't need
 # about 5 elements are recomended
-instagram_username:  mylucidgabble
-twitter_username: mylucidgabble
 linkedin_username: adeolaalokolaro
 medium_username:  mylucidgabble
 blog_url: "http://mylucidgabble.com/"
+twitter_username: mylucidgabble
+instagram_username:  mylucidgabble
 
 avatar: yes
 avatar_img_path: "imgs/konko.jpg"
